@@ -1,6 +1,6 @@
 @media only screen and (max-device-width: 480px){
 	#main-navbar {
-		width: 360px;
+		width: 390px;
 	}
 
 	#navbar-container ul {
@@ -12,7 +12,7 @@
     }
 
     #navbar-container ul li a {
-		/*padding: 5px 10px;*/
+		padding: 5px 10px;
     }
 
 
