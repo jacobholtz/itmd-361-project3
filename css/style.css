@@ -120,3 +120,8 @@ h3 {
 	text-align: right;
 	padding-left: 10px;
 }
+
+#copyright {
+	font-size: 10px;
+	text-align: center;
+}
